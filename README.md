@@ -1,2 +1,1 @@
-# lab-28-toDolist
-Created with CodeSandbox
+# lab-28-todo
